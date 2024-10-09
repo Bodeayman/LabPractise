@@ -1,0 +1,21 @@
+            * {
+                font-family: "Poppins";
+                box-sizing: border-box;
+            }
+
+            body {
+                background-color: #bbb !important;
+                display:flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+            .main {
+                background-color: #eee;
+                border-radius: 50px;
+
+            }
+
+            .invalid {
+                border: 2px solid red !important;
+            }
